@@ -1,0 +1,16 @@
+Для pytest нужно установить библиотеку pip install pytest
+
+Делаем Import pytest
+
+Нажимаем command + , и попадаем в Preferences. Там в поисковике набираем 'test', внизу
+видим 'Python Integrated Tools'
+видим внутри него 'default test runner'
+меняем его значение на 'pytest'
+
+Далее если во время запуска файла с pytest ничего не работает, то нажимаем на ᐁ (в правом
+верхнем углу экрана это 6й справа символ) и попадаем в Edit Configurations.
+Там меняем Script Path на Module name.
+В моем рабочем варианте в Module name было написано: test_main_pytest.TestSomething.test_numbers_3_4
+а сам файл назывался 'test_main_pytest'
+У unittest ткста в Module name было написано: TestSomethingUnitTest.TestSomething
+а сам файл назывался TestSomethingUnitTest
