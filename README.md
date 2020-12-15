@@ -1,3 +1,4 @@
+![Bootstrap photo](https://zavistnik.com/wp-content/uploads/2019/12/Testirovshhik.jpeg)
 # Homework for lecture 4. "Tests"
 ### **Problem number 1 unit-tests**
 From the course "Python: Everyday Programming and Superfast Prototyping" you need to test the program for working with accounting [Lecture 2.1](https://github.com/netology-code/py-homework-basic/tree/master/2.1.functions).
@@ -19,4 +20,3 @@ An example of positive tests:
 
 After using selenium, write a unit-test for authorization on Yandex using the url: https://passport.yandex.ru/auth/
 
-![Bootstrap photo](https://zavistnik.com/wp-content/uploads/2019/12/Testirovshhik.jpeg)
