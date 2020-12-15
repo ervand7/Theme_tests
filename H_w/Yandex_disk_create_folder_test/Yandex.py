@@ -1,7 +1,7 @@
 import requests
 
 # Put here your token from https://yandex.ru/dev/disk/poligon/
-YANDEX_TOKEN = 'AgAAAAA6wCXpAADLW3o9UKJyK0n6qX3OfUgGEWI'
+YANDEX_TOKEN = ''
 
 
 def creating_folder_on_yd(folder_name='qwerty_qwerty_qwerty', token=YANDEX_TOKEN):
