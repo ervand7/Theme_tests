@@ -1,5 +1,5 @@
 from unittest.mock import patch
-from tests.Bookkeeping_tests.bookkeeping_data import people, documents, directories, shelf, list_, add_shelf, move, add, delete
+from tests.test_Bookkeeping.bookkeeping_data import people, documents, directories, shelf, list_, add_shelf, move, add, delete
 
 
 class TestSomething:  # unlike unittest, we do not inherit from anyone
