@@ -1,6 +1,6 @@
 # Пример теста с помощью pytest
 import pytest
-from H_w.Yandex_disk_create_folder_test.Yandex import creating_folder_on_yd, YANDEX_TOKEN
+from tests.Yandex_disk_create_folder_test.Yandex import creating_folder_on_yd, YANDEX_TOKEN
 
 
 class TestSomething:  # unlike unittest, we do not inherit from anyone
